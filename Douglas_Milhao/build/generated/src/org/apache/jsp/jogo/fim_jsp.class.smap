@@ -1,0 +1,18 @@
+SMAP
+fim_jsp.java
+JSP
+*S JSP
+*F
++ 0 fim.jsp
+jogo/fim.jsp
++ 1 cabecalho.jsp
+jogo/cabecalho.jsp
+*L
+1,2:50
+1#1,19:52
+3#0:70
+6,16:73
+21,20:89
+41:109,3
+42,23:112
+*E

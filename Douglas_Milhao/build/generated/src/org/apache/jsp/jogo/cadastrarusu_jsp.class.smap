@@ -1,0 +1,16 @@
+SMAP
+cadastrarusu_jsp.java
+JSP
+*S JSP
+*F
++ 0 cadastrarusu.jsp
+jogo/cadastrarusu.jsp
++ 1 cabecalho.jsp
+jogo/cabecalho.jsp
+*L
+1,5:52
+1#1,19:56
+5#0,2:74
+8,43:77
+50,48:120
+*E
